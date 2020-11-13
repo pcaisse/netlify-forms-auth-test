@@ -1,4 +1,4 @@
 ---
-title: "Fav Flav"
-thumbnail: "/images/icecream.jpg"
+title: Fav Flav
+thumbnail: /images/uploads/icecream.jpg
 ---
